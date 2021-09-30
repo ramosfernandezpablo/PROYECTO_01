@@ -7,3 +7,7 @@
 *Esto es una itálica*
 
 **_Esto es una negrita con itálica_**
+
+|Nombre|Apellidos| Email|Edad|      <====== Esto es la cabecera de la tabla
+|----|-----|-------|      <====== Esto es para separar
+|Pablo|Ramos Fernandez|pramfer865@g.educaand.es|30| <=== Este es el cuerpo de la tabla

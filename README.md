@@ -1,16 +1,16 @@
-# Primer repositorio
+# Primer repositorio <====== Esto es la cabecera de mi repositorio
 
-#### Esto son 4 almohadillas 
+#### Esto son 4 almohadillas <====== Esto son ####
 
-**Mi nombre es Pablo Jesús Ramos Fernandez**
+**Mi nombre es Pablo Jesús Ramos Fernandez** <====== Esto es la cabecera de la tabla
 
-*Esto es una itálica*
+*Esto es una itálica* <====== Esto es un texto en itálica.
 
-**_Esto es una negrita con itálica_**
+**_Esto es una negrita con itálica_**  <====== Esto es un texto en itálica y en negrita
 
 |Nombre|Apellidos| Email|Edad|      <====== Esto es la cabecera de la tabla
 |----|-----|-------|      <====== Esto es para separar
-|Pablo|Ramos Fernandez|pramfer865@g.educaand.es|30| <=== Este es el cuerpo de la tabla
+|Pablo|Ramos Fernandez|pramfer865@g.educaand.es|30 años| <=== Este es el cuerpo de la tabla
 
 
 1. Elemento 1  <====== Esto es una lista numerada
@@ -20,6 +20,6 @@
    * Subelemento 1  <====== Esto es una sublista, es decir, una lista dentro de otra lista
    * Subelemento 3
 
-* Unordered elemento1  <====== Esto es una lista 
-* Unordered elemento2
-* Unordered elemento3
+* Elemento1  <====== Esto es una lista 
+* Elemento2
+* Elemento3
